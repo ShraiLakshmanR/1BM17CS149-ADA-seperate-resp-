@@ -16,7 +16,7 @@ void dfs(int vertex,int isVisited[], int n, int *a){
 
 int main(int argc, char const *argv[])
 {
-    cout<<"\nEnter the value of n\n";
+    cout<<"\nEnter the number of vertices\n";
     cin>>n;
     int isVisited[n];
     int a[n][n];
