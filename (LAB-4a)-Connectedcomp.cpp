@@ -20,7 +20,7 @@ int main(int argc, char const *argv[])
     cin>>n;
     int isVisited[n];
     int a[n][n];
-	cout<<"\nEnter the elements\n"; 
+	cout<<"\nEnter the Edges\n"; 
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
             cin>>a[i][j];
