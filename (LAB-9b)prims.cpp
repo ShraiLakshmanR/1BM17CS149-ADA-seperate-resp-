@@ -122,6 +122,6 @@ spanning tree matrix:
 0	0	1	0	0	0	
 3	0	0	0	0	0	
 
-Total cost of spanning tree=8Press ENTER to continue...
+Total cost of spanning tree=8
 
 
