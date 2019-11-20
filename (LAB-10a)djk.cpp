@@ -40,7 +40,7 @@ int main(){
         for(int j=i+1;j<=n;j++){
             cout<<"enter the distance between"<<i<<" and "<<j<<"=";
             cin>>a;
-            cost[i][j]=cost[j][i]=a;
+            cost[i][j]=cost[j][i]=a;  //ex:distance between two vertex remains the same
         }
         cout<<"\n";
     }
